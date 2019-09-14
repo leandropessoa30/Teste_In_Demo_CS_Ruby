@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="878afe53-1c62-4661-89fd-d09274ea8bd5" name="Default Changelist" comment="" />
+    <list default="true" id="878afe53-1c62-4661-89fd-d09274ea8bd5" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Teste_In_Demo_CS_Ruby.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Teste_In_Demo_CS_Ruby.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Reports/Buy_Now_With_1_Click.html" beforeDir="false" afterPath="$PROJECT_DIR$/Reports/Buy_Now_With_1_Click.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Reports/TesteAPIFilms.html" beforeDir="false" afterPath="$PROJECT_DIR$/Reports/TesteAPIFilms.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/features/step_definitions/API/Teste_GET_Films.rb" beforeDir="false" afterPath="$PROJECT_DIR$/features/step_definitions/API/Teste_GET_Films.rb" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,8 +22,13 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1Qmv5cqQDdYydyjHH2xW6IexjQ3" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.ruby.settings.RubyActiveModuleSdkConfigurable" />
@@ -122,28 +134,40 @@
       <updated>1568388403766</updated>
       <workItem from="1568388409119" duration="12507000" />
       <workItem from="1568426918954" duration="4179000" />
+      <workItem from="1568432135464" duration="2910000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="ruby-line">
-          <url>file://$PROJECT_DIR$/features/Pages/APITest.rb</url>
-          <line>21</line>
+          <url>file://$PROJECT_DIR$/features/step_definitions/API/Teste_GET_Films.rb</url>
+          <line>25</line>
           <properties a="-1">
             <option name="block-ordinal" value="-1" />
           </properties>
-          <option name="timeStamp" value="13" />
+          <option name="timeStamp" value="15" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/Teste_In_Demo_CS_Ruby@Teste_Get_Films_feature.rcov" NAME="Teste_Get_Films.feature Coverage Results" MODIFIED="1568429576175" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="Teste_In_Demo_CS_Ruby" />
+    <SUITE FILE_PATH="coverage/Teste_In_Demo_CS_Ruby@Teste_Get_Films_feature.rcov" NAME="Teste_Get_Films.feature Coverage Results" MODIFIED="1568433808550" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="Teste_In_Demo_CS_Ruby" />
     <SUITE FILE_PATH="coverage/Teste_In_Demo_CS_Ruby@Buy_Now_With_1_Click_feature.rcov" NAME="Buy_Now_With_1_Click.feature Coverage Results" MODIFIED="1568427829439" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="Teste_In_Demo_CS_Ruby" />
   </component>
 </project>
