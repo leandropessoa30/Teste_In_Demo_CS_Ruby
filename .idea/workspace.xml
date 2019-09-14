@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="878afe53-1c62-4661-89fd-d09274ea8bd5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Teste_In_Demo_CS_Ruby.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Teste_In_Demo_CS_Ruby.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/Buy_Now_With_1_Click.html" beforeDir="false" afterPath="$PROJECT_DIR$/Reports/Buy_Now_With_1_Click.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/TesteAPIFilms.html" beforeDir="false" afterPath="$PROJECT_DIR$/Reports/TesteAPIFilms.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/features/step_definitions/API/Teste_GET_Films.rb" beforeDir="false" afterPath="$PROJECT_DIR$/features/step_definitions/API/Teste_GET_Films.rb" afterDir="false" />
-    </list>
+    <list default="true" id="878afe53-1c62-4661-89fd-d09274ea8bd5" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -134,7 +127,7 @@
       <updated>1568388403766</updated>
       <workItem from="1568388409119" duration="12507000" />
       <workItem from="1568426918954" duration="4179000" />
-      <workItem from="1568432135464" duration="2910000" />
+      <workItem from="1568432135464" duration="3504000" />
     </task>
     <servers />
   </component>

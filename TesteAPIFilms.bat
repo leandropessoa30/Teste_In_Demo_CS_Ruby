@@ -1,4 +1,4 @@
 @echo off
 chcp 65001
 
-cucumber --format html --out="./Reports/TesteAPIFilms.html" --tag @Teste_GET_Films
+cucumber --format json --out="./Reports/TesteAPIFilms.json" --tag @Teste_GET_Films
