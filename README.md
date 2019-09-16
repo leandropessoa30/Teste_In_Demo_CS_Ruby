@@ -45,9 +45,15 @@ TZ=America/Sao_Paulo <br/>
 
 HTML Publish <br/>
 
-O relatório da execução poderá é acessado via htmlpublish disponivel 
+O relatório da execução é publicado no Jenkins via htmlpublish (plugin), disponivel 
 nos jobs.
 <br/>
+Existe um problema que faz o relatório ser publicado sem a formatação css da página. Para corrigir isso foi necessário enviar o comando:<br/>
+System.setProperty("hudson.model.DirectoryBrowserSupport.CSP", "") no console do nó utilizado. 
+<br/>
+<br/>
+
+
 
 
 
